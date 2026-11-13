@@ -197,4 +197,4 @@ This repository serves as the official landing page for ADInstruments LabChart. 
 **Get the most recent version of ADInstruments LabChart today!**
 
 ---
-**Last updated:** 2026-11-13 05:50:55 UTC
+**Last updated:** 2026-11-13 14:16:34 UTC
